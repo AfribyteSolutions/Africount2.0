@@ -1,0 +1,63 @@
+{
+  "common": {
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "add": "Ajouter",
+    "close": "Fermer",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "warning": "Avertissement",
+    "confirm": "Confirmer",
+    "yes": "Oui",
+    "no": "Non"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "language": "Langue",
+    "currency": "Devise",
+    "dateFormat": "Format de Date",
+    "timezone": "Fuseau Horaire",
+    "theme": "Thème",
+    "preferences": "Préférences",
+    "selectLanguage": "Sélectionner la Langue",
+    "selectCurrency": "Sélectionner la Devise",
+    "selectTimezone": "Sélectionner le Fuseau Horaire",
+    "lightTheme": "Clair",
+    "darkTheme": "Sombre"
+  },
+  "dashboard": {
+    "welcome": "Bienvenue à Africount",
+    "overview": "Aperçu",
+    "selectModule": "Sélectionnez un module dans la barre latérale pour commencer"
+  },
+  "analytics": {
+    "title": "Analytique",
+    "metrics": "Métriques",
+    "revenue": "Revenu",
+    "expenses": "Dépenses",
+    "profit": "Bénéfice",
+    "cashFlow": "Flux de Trésorerie",
+    "forecast": "Prévision"
+  },
+  "projects": {
+    "title": "Projets",
+    "newProject": "Nouveau Projet",
+    "projectName": "Nom du Projet",
+    "budget": "Budget",
+    "status": "Statut",
+    "active": "Actif",
+    "completed": "Complété"
+  },
+  "transactions": {
+    "title": "Transactions",
+    "newTransaction": "Nouvelle Transaction",
+    "income": "Revenu",
+    "expense": "Dépense",
+    "amount": "Montant",
+    "category": "Catégorie",
+    "date": "Date"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "add": "Añadir",
+    "close": "Cerrar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "warning": "Advertencia",
+    "confirm": "Confirmar",
+    "yes": "Sí",
+    "no": "No"
+  },
+  "settings": {
+    "title": "Configuración",
+    "language": "Idioma",
+    "currency": "Moneda",
+    "dateFormat": "Formato de Fecha",
+    "timezone": "Zona Horaria",
+    "theme": "Tema",
+    "preferences": "Preferencias",
+    "selectLanguage": "Seleccionar Idioma",
+    "selectCurrency": "Seleccionar Moneda",
+    "selectTimezone": "Seleccionar Zona Horaria",
+    "lightTheme": "Claro",
+    "darkTheme": "Oscuro"
+  },
+  "dashboard": {
+    "welcome": "Bienvenido a Africount",
+    "overview": "Descripción General",
+    "selectModule": "Seleccione un módulo de la barra lateral para comenzar"
+  },
+  "analytics": {
+    "title": "Análisis",
+    "metrics": "Métricas",
+    "revenue": "Ingresos",
+    "expenses": "Gastos",
+    "profit": "Ganancia",
+    "cashFlow": "Flujo de Efectivo",
+    "forecast": "Pronóstico"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "newProject": "Nuevo Proyecto",
+    "projectName": "Nombre del Proyecto",
+    "budget": "Presupuesto",
+    "status": "Estado",
+    "active": "Activo",
+    "completed": "Completado"
+  },
+  "transactions": {
+    "title": "Transacciones",
+    "newTransaction": "Nueva Transacción",
+    "income": "Ingreso",
+    "expense": "Gasto",
+    "amount": "Cantidad",
+    "category": "Categoría",
+    "date": "Fecha"
+  }
+}

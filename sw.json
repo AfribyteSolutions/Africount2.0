@@ -1,0 +1,63 @@
+{
+  "common": {
+    "save": "Hifadhi",
+    "cancel": "Ghairi",
+    "delete": "Futa",
+    "edit": "Hariri",
+    "add": "Ongeza",
+    "close": "Funga",
+    "loading": "Inapakia...",
+    "error": "Kosa",
+    "success": "Mafanikio",
+    "warning": "Onyo",
+    "confirm": "Thibitisha",
+    "yes": "Ndiyo",
+    "no": "Hapana"
+  },
+  "settings": {
+    "title": "Mipango",
+    "language": "Lugha",
+    "currency": "Fedha",
+    "dateFormat": "Muundo wa Tarehe",
+    "timezone": "Sehemu ya Wakati",
+    "theme": "Mandhari",
+    "preferences": "Mapendeleo",
+    "selectLanguage": "Chagua Lugha",
+    "selectCurrency": "Chagua Fedha",
+    "selectTimezone": "Chagua Sehemu ya Wakati",
+    "lightTheme": "Nuru",
+    "darkTheme": "Giza"
+  },
+  "dashboard": {
+    "welcome": "Karibu kwenye Africount",
+    "overview": "Muhtasari",
+    "selectModule": "Chagua moduli kutoka upande wa kulia ili kuanza"
+  },
+  "analytics": {
+    "title": "Uchambuzi",
+    "metrics": "Viashiria",
+    "revenue": "Mapato",
+    "expenses": "Matumizi",
+    "profit": "Faida",
+    "cashFlow": "Mtiririko wa Pesa",
+    "forecast": "Utabiri"
+  },
+  "projects": {
+    "title": "Miradi",
+    "newProject": "Mradi Mpya",
+    "projectName": "Jina la Mradi",
+    "budget": "Bajeti",
+    "status": "Hali",
+    "active": "Amilifu",
+    "completed": "Imekamilika"
+  },
+  "transactions": {
+    "title": "Miamala",
+    "newTransaction": "Miamala Mpya",
+    "income": "Mapato",
+    "expense": "Matumizi",
+    "amount": "Kiasi",
+    "category": "Jamii",
+    "date": "Tarehe"
+  }
+}
