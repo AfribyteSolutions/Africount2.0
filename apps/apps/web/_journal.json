@@ -1,0 +1,76 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1775826826038,
+      "tag": "0000_green_roughhouse",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1775827072433,
+      "tag": "0001_giant_masque",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1775996709813,
+      "tag": "0002_cynical_gressill",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1775996939840,
+      "tag": "0003_lying_mole_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1776117985436,
+      "tag": "0004_outgoing_scarlet_witch",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1776118397993,
+      "tag": "0005_clean_umar",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1776118920148,
+      "tag": "0006_far_oracle",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1776122707738,
+      "tag": "0007_luxuriant_albert_cleary",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1776123999470,
+      "tag": "0008_lovely_joshua_kane",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1776125009823,
+      "tag": "0009_complex_butterfly",
+      "breakpoints": true
+    }
+  ]
+}
