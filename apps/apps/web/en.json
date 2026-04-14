@@ -1,0 +1,63 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "warning": "Warning",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "currency": "Currency",
+    "dateFormat": "Date Format",
+    "timezone": "Timezone",
+    "theme": "Theme",
+    "preferences": "Preferences",
+    "selectLanguage": "Select Language",
+    "selectCurrency": "Select Currency",
+    "selectTimezone": "Select Timezone",
+    "lightTheme": "Light",
+    "darkTheme": "Dark"
+  },
+  "dashboard": {
+    "welcome": "Welcome to Africount",
+    "overview": "Overview",
+    "selectModule": "Select a module from the sidebar to get started"
+  },
+  "analytics": {
+    "title": "Analytics",
+    "metrics": "Metrics",
+    "revenue": "Revenue",
+    "expenses": "Expenses",
+    "profit": "Profit",
+    "cashFlow": "Cash Flow",
+    "forecast": "Forecast"
+  },
+  "projects": {
+    "title": "Projects",
+    "newProject": "New Project",
+    "projectName": "Project Name",
+    "budget": "Budget",
+    "status": "Status",
+    "active": "Active",
+    "completed": "Completed"
+  },
+  "transactions": {
+    "title": "Transactions",
+    "newTransaction": "New Transaction",
+    "income": "Income",
+    "expense": "Expense",
+    "amount": "Amount",
+    "category": "Category",
+    "date": "Date"
+  }
+}

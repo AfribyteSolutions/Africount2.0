@@ -1,0 +1,63 @@
+{
+  "common": {
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "add": "إضافة",
+    "close": "إغلاق",
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجاح",
+    "warning": "تحذير",
+    "confirm": "تأكيد",
+    "yes": "نعم",
+    "no": "لا"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "language": "اللغة",
+    "currency": "العملة",
+    "dateFormat": "تنسيق التاريخ",
+    "timezone": "المنطقة الزمنية",
+    "theme": "المظهر",
+    "preferences": "التفضيلات",
+    "selectLanguage": "اختر اللغة",
+    "selectCurrency": "اختر العملة",
+    "selectTimezone": "اختر المنطقة الزمنية",
+    "lightTheme": "فاتح",
+    "darkTheme": "داكن"
+  },
+  "dashboard": {
+    "welcome": "مرحبا بك في Africount",
+    "overview": "نظرة عامة",
+    "selectModule": "اختر وحدة من الشريط الجانبي للبدء"
+  },
+  "analytics": {
+    "title": "التحليلات",
+    "metrics": "المقاييس",
+    "revenue": "الإيرادات",
+    "expenses": "النفقات",
+    "profit": "الربح",
+    "cashFlow": "تدفق النقد",
+    "forecast": "التنبؤ"
+  },
+  "projects": {
+    "title": "المشاريع",
+    "newProject": "مشروع جديد",
+    "projectName": "اسم المشروع",
+    "budget": "الميزانية",
+    "status": "الحالة",
+    "active": "نشط",
+    "completed": "مكتمل"
+  },
+  "transactions": {
+    "title": "المعاملات",
+    "newTransaction": "معاملة جديدة",
+    "income": "الدخل",
+    "expense": "النفقة",
+    "amount": "المبلغ",
+    "category": "الفئة",
+    "date": "التاريخ"
+  }
+}
